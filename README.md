@@ -4,6 +4,8 @@
 
 This project involves performing a detailed RFM (Recency, Frequency, Monetary) analysis to segment corporate clients based on their purchasing behavior. Using advanced clustering techniques, the analysis aimed to categorize clients into distinct groups, enabling targeted marketing strategies and better customer relationship management.
 
+This is a group project we made together with Anna Fischer.
+
 ## 🚀 Key Components:
 
 ### Data Exploration and Cleaning:
